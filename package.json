@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot",
+  "version": "0.4.7",
+  "description": "DiscordBOT by Tom Hobson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Hobson",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "request": "^2.88.2"
+  }
+}
