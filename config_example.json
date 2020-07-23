@@ -1,0 +1,7 @@
+{
+	"prefix": "!",
+    "token": "DISCORD TOKEN",
+    "streamid": "STREAM_ID",
+    "clientid": "CLIENT-ID",
+    "authToken": "Twitch OAuth TOKEN"
+}
