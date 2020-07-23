@@ -1,3 +1,7 @@
+/*
+	Discord BOT (for Twitch streamers) server written in Node.js. Uses twitch helix api to collect data from stream.
+*/
+
 const Discord = require('discord.js');
 var http = require('http');
 
